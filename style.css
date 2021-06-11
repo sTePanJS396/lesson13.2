@@ -1,0 +1,39 @@
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+}
+.wrap {
+  margin-left: 470px;
+  align-items: center;
+}
+.header {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.color-section {
+  margin-left: 55px;
+  margin-top: 100px;
+}
+.color-section-span {
+  text-align: center;
+  font-size: 50px;
+}
+.button-section-button {
+  width: 300px;
+  height: 80px;
+  background-color: #fff;
+}
+.button-section {
+  margin-top: 100px;
+}
+.button-section-button {
+  border: none;
+  border-radius: 20px;
+  background-color: black;
+}
+.button-section-button-span {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
